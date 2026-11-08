@@ -1,0 +1,302 @@
+{
+  "namespace": "Copperline Media",
+  "owner_slug": "copperline-media",
+  "repository": "knobbyintens/github_notion_3118-x7q2m-copperline-media",
+  "schema": "deliverables-bundle/v1",
+  "items": {
+    "Zephyr Dossier": {
+      "files": {
+        "README.md": "# Zephyr Dossier\n\nDeliverable maintained by Copperline Media.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Zephyr Dossier\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"947ce00a97769de4\"\n}"
+      },
+      "category": "brief"
+    },
+    "Nimbus Jigsaw": {
+      "files": {
+        "README.md": "# Nimbus Jigsaw\n\nDeliverable maintained by Copperline Media.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Nimbus Jigsaw\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"9b0695c6d34f9f5a\"\n}"
+      },
+      "category": "report"
+    },
+    "Ember Notebook": {
+      "files": {
+        "README.md": "# Ember Notebook\n\nDeliverable maintained by Copperline Media.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Ember Notebook\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1f9a60e18fa6c159\"\n}"
+      },
+      "category": "model"
+    },
+    "Zephyr Manifest": {
+      "files": {
+        "README.md": "# Zephyr Manifest\n\nDeliverable maintained by Copperline Media.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Zephyr Manifest\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"6a3827eade0476da\"\n}"
+      },
+      "category": "archive"
+    },
+    "Ivory Outline": {
+      "files": {
+        "README.md": "# Ivory Outline\n\nDeliverable maintained by Copperline Media.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Ivory Outline\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"d32a9f782a2b25da\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Yonder Itinerary": {
+      "files": {
+        "README.md": "# Yonder Itinerary\n\nDeliverable maintained by Copperline Media.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Yonder Itinerary\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ea13adbea6045bbd\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Radiant Chronicle": {
+      "files": {
+        "README.md": "# Radiant Chronicle\n\nDeliverable maintained by Copperline Media.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Radiant Chronicle\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"c6ca3f62a70d497b\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Granite Catalog": {
+      "files": {
+        "README.md": "# Granite Catalog\n\nDeliverable maintained by Copperline Media.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Granite Catalog\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"75994d0a3e90a8cb\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Painted Outline": {
+      "files": {
+        "README.md": "# Painted Outline\n\nDeliverable maintained by Copperline Media.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Painted Outline\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"80127e1e25412839\"\n}"
+      },
+      "category": "model"
+    },
+    "Gilded Compendium": {
+      "files": {
+        "README.md": "# Gilded Compendium\n\nDeliverable maintained by Copperline Media.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Gilded Compendium\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"5a40496362d5aad1\"\n}"
+      },
+      "category": "archive"
+    },
+    "Kestrel Keepsake": {
+      "files": {
+        "README.md": "# Kestrel Keepsake\n\nDeliverable maintained by Copperline Media.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Kestrel Keepsake\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"daa471d27489b2d5\"\n}"
+      },
+      "category": "deck"
+    },
+    "Juniper Update": {
+      "files": {
+        "README.md": "# Juniper Update\n\nDeliverable maintained by Copperline Media.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Juniper Update\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1a033cf87b25b321\"\n}"
+      },
+      "category": "archive"
+    },
+    "Nocturne Atlas": {
+      "files": {
+        "README.md": "# Nocturne Atlas\n\nDeliverable maintained by Copperline Media.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Nocturne Atlas\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"762a9b9cdc6a1d9d\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Ivory Kit": {
+      "files": {
+        "README.md": "# Ivory Kit\n\nDeliverable maintained by Copperline Media.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Ivory Kit\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"4afacf6a153cc0fd\"\n}"
+      },
+      "category": "deck"
+    },
+    "Dusk Catalog": {
+      "files": {
+        "README.md": "# Dusk Catalog\n\nDeliverable maintained by Copperline Media.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Dusk Catalog\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"f076a532fa6a5858\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Opaline Yearbook": {
+      "files": {
+        "README.md": "# Opaline Yearbook\n\nDeliverable maintained by Copperline Media.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Opaline Yearbook\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"820bbb3cfbd81420\"\n}"
+      },
+      "category": "report"
+    },
+    "Frosted Handbook": {
+      "files": {
+        "README.md": "# Frosted Handbook\n\nDeliverable maintained by Copperline Media.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Frosted Handbook\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"0a6493d16909ab3c\"\n}"
+      },
+      "category": "archive"
+    },
+    "Umber Notebook": {
+      "files": {
+        "README.md": "# Umber Notebook\n\nDeliverable maintained by Copperline Media.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Umber Notebook\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b30200ff5aad0ffb\"\n}"
+      },
+      "category": "brief"
+    },
+    "Jade Survey": {
+      "files": {
+        "README.md": "# Jade Survey\n\nDeliverable maintained by Copperline Media.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Jade Survey\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"4ff2fd7ff3337c62\"\n}"
+      },
+      "category": "spec"
+    },
+    "Ivory Atlas": {
+      "files": {
+        "README.md": "# Ivory Atlas\n\nDeliverable maintained by Copperline Media.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Ivory Atlas\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"124f94da0ec8a812\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Brisk Register": {
+      "files": {
+        "README.md": "# Brisk Register\n\nDeliverable maintained by Copperline Media.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Brisk Register\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"7dc2cf04d7cc06d4\"\n}"
+      },
+      "category": "brief"
+    },
+    "Ivory Explorer": {
+      "files": {
+        "README.md": "# Ivory Explorer\n\nDeliverable maintained by Copperline Media.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Ivory Explorer\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"691019bef0885d91\"\n}"
+      },
+      "category": "report"
+    },
+    "Xenial Brief": {
+      "files": {
+        "README.md": "# Xenial Brief\n\nDeliverable maintained by Copperline Media.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Xenial Brief\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"75c8bb6b8a38a0ef\"\n}"
+      },
+      "category": "model"
+    },
+    "Tidal Envelope": {
+      "files": {
+        "README.md": "# Tidal Envelope\n\nDeliverable maintained by Copperline Media.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Tidal Envelope\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"5cbcc7086fb3eae2\"\n}"
+      },
+      "category": "report"
+    },
+    "Nocturne Itinerary": {
+      "files": {
+        "README.md": "# Nocturne Itinerary\n\nDeliverable maintained by Copperline Media.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Nocturne Itinerary\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"15b068ab73565a63\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Quiet Manual": {
+      "files": {
+        "README.md": "# Quiet Manual\n\nDeliverable maintained by Copperline Media.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Quiet Manual\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"f957c2304d807f15\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Painted Herald": {
+      "files": {
+        "README.md": "# Painted Herald\n\nDeliverable maintained by Copperline Media.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Painted Herald\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a003ea15b0cff0b4\"\n}"
+      },
+      "category": "spec"
+    },
+    "Ember Manifest": {
+      "files": {
+        "README.md": "# Ember Manifest\n\nDeliverable maintained by Copperline Media.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Ember Manifest\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"25f69c54bc55f9a5\"\n}"
+      },
+      "category": "deck"
+    },
+    "Yonder Herald": {
+      "files": {
+        "README.md": "# Yonder Herald\n\nDeliverable maintained by Copperline Media.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Yonder Herald\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"933613308697f393\"\n}"
+      },
+      "category": "report"
+    },
+    "Lilac Handbook": {
+      "files": {
+        "README.md": "# Lilac Handbook\n\nDeliverable maintained by Copperline Media.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Lilac Handbook\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"60046cdb66208bcd\"\n}"
+      },
+      "category": "model"
+    },
+    "Mossy Folio": {
+      "files": {
+        "README.md": "# Mossy Folio\n\nDeliverable maintained by Copperline Media.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Mossy Folio\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"092c72bf3506437f\"\n}"
+      },
+      "category": "report"
+    },
+    "Marble Folio": {
+      "files": {
+        "README.md": "# Marble Folio\n\nDeliverable maintained by Copperline Media.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Marble Folio\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"88603c60ecd9b7e1\"\n}"
+      },
+      "category": "archive"
+    },
+    "Velvet Workbook": {
+      "files": {
+        "README.md": "# Velvet Workbook\n\nDeliverable maintained by Copperline Media.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Velvet Workbook\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b9f87bfb32f55f99\"\n}"
+      },
+      "category": "deck"
+    },
+    "Nimbus Quarterly": {
+      "files": {
+        "README.md": "# Nimbus Quarterly\n\nDeliverable maintained by Copperline Media.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Nimbus Quarterly\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b160c01dd7bbc428\"\n}"
+      },
+      "category": "report"
+    },
+    "Harbor Blueprint": {
+      "files": {
+        "README.md": "# Harbor Blueprint\n\nDeliverable maintained by Copperline Media.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Harbor Blueprint\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"912c4015b9ae9d1e\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Gilded Yearbook": {
+      "files": {
+        "README.md": "# Gilded Yearbook\n\nDeliverable maintained by Copperline Media.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Gilded Yearbook\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"fc3adf116e9306b2\"\n}"
+      },
+      "category": "deck"
+    },
+    "Cobalt Digest": {
+      "files": {
+        "README.md": "# Cobalt Digest\n\nDeliverable maintained by Copperline Media.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Cobalt Digest\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b702914025e47bde\"\n}"
+      },
+      "category": "brief"
+    },
+    "Opaline Atlas": {
+      "files": {
+        "README.md": "# Opaline Atlas\n\nDeliverable maintained by Copperline Media.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Opaline Atlas\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"07249c6b932b3816\"\n}"
+      },
+      "category": "model"
+    },
+    "Amber Ledger": {
+      "files": {
+        "README.md": "# Amber Ledger\n\nDeliverable maintained by Copperline Media.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Amber Ledger\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"7cb4f9ce7e7a4509\"\n}"
+      },
+      "category": "brief"
+    },
+    "Halcyon Yearbook": {
+      "files": {
+        "README.md": "# Halcyon Yearbook\n\nDeliverable maintained by Copperline Media.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Halcyon Yearbook\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"fdf63f45fa2e25cb\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Brisk Treasury": {
+      "files": {
+        "README.md": "# Brisk Treasury\n\nDeliverable maintained by Copperline Media.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Brisk Treasury\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"aa85986620f66f7d\"\n}"
+      },
+      "category": "brief"
+    },
+    "Tidal Jigsaw": {
+      "files": {
+        "README.md": "# Tidal Jigsaw\n\nDeliverable maintained by Copperline Media.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Tidal Jigsaw\",\n  \"owner\": \"Copperline Media\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a3572032642c9246\"\n}"
+      },
+      "category": "deck"
+    }
+  }
+}

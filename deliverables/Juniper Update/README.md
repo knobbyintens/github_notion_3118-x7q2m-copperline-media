@@ -1,0 +1,6 @@
+# Juniper Update
+
+Deliverable maintained by Copperline Media.
+
+- Category: archive
+- Version: 1.0
